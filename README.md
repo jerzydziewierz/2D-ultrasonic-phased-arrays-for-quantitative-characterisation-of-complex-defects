@@ -1,16 +1,19 @@
 
 
-#2D ultrasonic phased arrays for quantitative characterisation of complex defects
-By Jerzy Dziewierz.
+
+<h1> 2D ultrasonic phased arrays for quantitative characterisation of complex defects </h1>
+By Jerzy Dziewierz
 
 A thesis presented in fulfilment of the requirement for the degree of Doctor of Philosophy, 2015
+
+* TOC
+{:toc}
 
 # Abstract
 
 Ultrasonic inspection can be considered as one of many ways the technical system - installation or vehicle - can be made economical and safe. 
 
-Contemporary ultrasonic systems are capable of detecting a wide variety of mechanical defects and flaws that may or may not affect the operation of a given product. Ultrasonic testing techniques are widely accepted for quality control and material testing. Moreover, the
-technology is proven, well-understood and widely used. 
+Contemporary ultrasonic systems are capable of detecting a wide variety of mechanical defects and flaws that may or may not affect the operation of a given product. Ultrasonic testing techniques are widely accepted for quality control and material testing. Moreover, the technology is proven, well-understood and widely used. 
 
 Upon detecting a flaw, a decision has to be made to ensure the component is fit for the purpose: is the flaw acceptable or is repair of the given part or its replacement? 
 
@@ -20,14 +23,11 @@ The interest of the work is to establish a process of designing and manufacturin
 
 In the first part of the work the sensor mechanical and electrical design is addressed. The properties of piezoelectric ceramic composite materials are studied. Detailed numerical models have been used to analyse conditions required for crafting materials of desirable properties.
 
-A novel technique has been demonstrated that allows design of well-behaved triangular cut piezoelectric composite. Built into a single array element (of hexagonal shape by taking 6 triangular pillars) this new composite exhibits properties comparable to a reference rectangular composite (sensitivity of 0.60nm/V for hexagonal, 0.62nm/V for square; and inter-
-element crosstalk of -21.2dB for hexagonal and -21.9dB for square element). This composite then allows building of compact, dense-layout2D phased array transducers with hexagonal or sparse element layout.
+A novel technique has been demonstrated that allows design of well-behaved triangular cut piezoelectric composite. Built into a single array element (of hexagonal shape by taking 6 triangular pillars) this new composite exhibits properties comparable to a reference rectangular composite (sensitivity of 0.60nm/V for hexagonal, 0.62nm/V for square; and inter-element crosstalk of -21.2dB for hexagonal and -21.9dB for square element). This composite then allows building of compact, dense-layout2D phased array transducers with hexagonal or sparse element layout.
 
-The benefits of hexagonal element layout over classic, rectangular layout have been analysed theoretically and showed to be beneficial. Importantly, using hexagonal elements enables increasing the aperture of individual array elements by approximately 10% without the
-corresponding drop in acceptance angle. This in turn allows a commensurable rise in the sensitivity of the sensor or alternatively, reduction in array element count for a given overall array aperture by over 20% without the corresponding drop in the image quality
-measurements/levels. 
+The benefits of hexagonal element layout over classic, rectangular layout have been analysed theoretically and showed to be beneficial. Importantly, using hexagonal elements enables increasing the aperture of individual array elements by approximately 10% without the corresponding drop in acceptance angle. This in turn allows a commensurable rise in the sensitivity of the sensor or alternatively, reduction in array element count for a given overall array aperture by **over 20%** without the corresponding drop in the image quality measurements/levels. 
 
-In the second part of the work, the problem of high output impedance of the miniature ultrasonic sensor is addressed by means of an in-probe miniature signal conditioning circuit. This improved the response amplitude of the element by 36dB and shortened its impulse response by a factor of 1.6. The novelty and practical benefit in this case lies in the fact that no high power components are needed in the probe body. 
+In the second part of the work, the problem of high output impedance of the miniature ultrasonic sensor is addressed by means of an in-probe miniature signal conditioning circuit. This improved the response amplitude of the element by 36dB and **shortened its impulse response by a factor of 1.6**. The novelty and practical benefit in this case lies in the fact that no high power components are needed in the probe body. 
 
 In the third part of this work, an emerging General-Purpose Graphics Processing Unit (GP-GPU) computer architecture is considered for the opportunities it offers to rethink the implementation of algorithms typically used in ultrasonic signal processing. Single-way beamforming, and two-way TFM and PCF beamforming have been developed for execution on the new platform, and show increase in performance of over 930 times compared to CPU processor. 
 
@@ -45,7 +45,7 @@ Chapter 8. Concluding remarks and future work
 Appendix A. Snell’s law of refraction and polynomial fit equations processed using Wolfram Mathematica
 Appendix B. About Matlab’s fminsearch
 
-# link to Full text
+# Link to Full text
 
 Download the full text pdf from github using [this link](https://github.com/jerzydziewierz/2D-ultrasonic-phased-arrays-for-quantitative-characterisation-of-complex-defects/blob/master/2015%20Dziewierz%20-%202D%20ultrasonic%20phased%20arrays%20for%20quantitative%20characterisation%20of%20complex%20defects.pdf)
 
