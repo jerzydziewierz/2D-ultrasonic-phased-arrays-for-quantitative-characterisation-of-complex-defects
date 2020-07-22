@@ -35,15 +35,24 @@ This software platform has been further enhanced by a new approach to solving th
 
 # Chapters 
 Chapter 1. Introduction
+
 Chapter 2. Design of piezoelectric ceramic composite
+
 Chapter 3. Properties of hexagonal elements
+
 Chapter 4. Triangular-Cut Piezoelectric Composite
+
 Chapter 5. In-probe active impedance matching module
+
 Chapter 6. GP-GPU accelerated ultrasonic CAD
+
 Chapter 7. GP-GPU accelerated ultrasonic signal processing
+
 Chapter 8. Concluding remarks and future work
+
 Appendix A. Snell’s law of refraction and polynomial fit equations processed using Wolfram Mathematica
-Appendix B. About Matlab’s fminsearch
+
+Appendix B. About a bug  in Matlab’s fminsearch
 
 # Link to Full text
 
