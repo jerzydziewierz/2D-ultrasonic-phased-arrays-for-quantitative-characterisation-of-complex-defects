@@ -15,11 +15,11 @@ Ultrasonic inspection can be considered as one of many ways the technical system
 
 Contemporary ultrasonic systems are capable of detecting a wide variety of mechanical defects and flaws that may or may not affect the operation of a given product. Ultrasonic testing techniques are widely accepted for quality control and material testing. Moreover, the technology is proven, well-understood and widely used. 
 
-Upon detecting a flaw, a decision has to be made to ensure the component is fit for the purpose: is the flaw acceptable or is repair of the given part or its replacement? 
+Upon detecting a flaw, a decision has to be made to ensure the component is fit for the purpose: is the flaw acceptable? is it amenable to repairs, or mitigation? Does it require replacement? 
 
 Here, 2D ultrasonic phased arrays hold promise to quickly deliver detailed, 3D resolved information about the extent and nature of the flaw. This information can then be used to develop and justify the technical and economic decision concerning the existing state of the product. In effect, an opportunity exists for significant cost savings by using ultrasonic 2D phased array systems for defect characterisation.
 
-The interest of the work is to establish a process of designing and manufacturing of piezoelectric, 2D phased array ultrasound probes for application in non-destructive evaluation of materials. Furthermore, implementation of practical signal processing method is investigated. 
+The interest of the work is to establish a process of designing and manufacturing of piezoelectric, 2D phased array ultrasound probes for application in non-destructive evaluation of materials. Furthermore, practical implementation of an advanced signal processing method is investigated. 
 
 In the first part of the work the sensor mechanical and electrical design is addressed. The properties of piezoelectric ceramic composite materials are studied. Detailed numerical models have been used to analyse conditions required for crafting materials of desirable properties.
 
